@@ -15,9 +15,9 @@ If you have not bought or want to use cape, we highly recommended to use [Little
 ### 1.Register/Login Account
 ### 2.Upload Texture
 ### 3.Apply Skin
-# Other
+## Other
 Please follow the guide in other websites, this mod can load from most of them.
-## In Game
+# In Game
 There is no GUI or hot key in game, and no setting needed in normal usage.
-### Refresh Skin
+## Refresh Skin
 After change skin, what you need to refresh skin is just rejoin the server or reopen the map.
