@@ -12,7 +12,7 @@ If you have bought Minecraft, you can upload your skin to [Mojang](https://my.mi
 ### 2.Select Model
 ### 3.Upload Custom Skin
 ## LittleSkin
-If you have not bought or want to use cape, we highly recommended to use [LittleSkin](https://littleskin.cn/).
+If you have not bought or want to use cape and high definition skin, we highly recommended to use [LittleSkin](https://littleskin.cn/).
 ### 1.Register/Login Account
 ### 2.Upload Texture
 ### 3.Apply Skin
