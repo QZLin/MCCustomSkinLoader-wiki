@@ -3,7 +3,9 @@
 Download at [CurseForge](https://minecraft.curseforge.com/projects/customskinloader), put the jar into `.minecraft/mods` folder.  
 The single jar can be used in 1.8-1.13.2 with Forge.
 ## Vanilla
-Please have a look at [1.13.2 Install Guide](https://github.com/xfl03/MCCustomSkinLoader/wiki/1.13.2-Install-Guide).
+Without Forge or Fabric.  
+[1.13.2 Install Guide](https://github.com/xfl03/MCCustomSkinLoader/wiki/1.13.2-Install-Guide)  
+[1.14   Install Guide](https://github.com/xfl03/MCCustomSkinLoader/wiki/1.14-Install-Guide)
 # Change Skin
 You can change your skin in skin system link Mojang or 3rd-party website.
 ## Mojang
