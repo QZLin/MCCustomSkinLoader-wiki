@@ -1,4 +1,5 @@
 # Install
+This is a **CLIENT ONLY** mod, **DO NOT** install in server.
 ## With Forge
 Download at [CurseForge](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/all?filter-status=1&filter-game-version=2020709689%3A7498). Put the jar named with `Forge` into `.minecraft/mods` folder.  
 The single jar can be used in 1.8-1.14.4 with Forge.
