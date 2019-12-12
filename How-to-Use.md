@@ -1,9 +1,9 @@
 # Install
 ## With Forge
-Download at [CurseForge](https://minecraft.curseforge.com/projects/customskinloader). Put the jar named with `Forge` into `.minecraft/mods` folder.  
+Download at [CurseForge](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/all?filter-status=1&filter-game-version=2020709689%3A7498). Put the jar named with `Forge` into `.minecraft/mods` folder.  
 The single jar can be used in 1.8-1.14.4 with Forge.
 ## With Fabric
-Download at [CurseForge](https://minecraft.curseforge.com/projects/customskinloader). Put the jar named with `Fabric` into `.minecraft/mods` folder.  
+Download at [CurseForge](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/all?filter-status=1&filter-game-version=2020709689%3A7499). Put the jar named with `Fabric` into `.minecraft/mods` folder.  
 The single jar can be used in 1.14-1.15 with Fabric.
 ## Vanilla
 Without Forge or Fabric.  
