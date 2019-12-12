@@ -4,7 +4,7 @@ Download at [CurseForge](https://minecraft.curseforge.com/projects/customskinloa
 The single jar can be used in 1.8-1.14.4 with Forge.
 ## With Fabric
 Download at [CurseForge](https://minecraft.curseforge.com/projects/customskinloader). Put the jar named with `Fabric` into `.minecraft/mods` folder.  
-The single jar can be used in 1.14-1.14.4 with Fabric.
+The single jar can be used in 1.14-1.15 with Fabric.
 ## Vanilla
 Without Forge or Fabric.  
 [1.13.2 Install Guide](https://github.com/xfl03/MCCustomSkinLoader/wiki/1.13.2-Install-Guide)  
